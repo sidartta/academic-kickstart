@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mohamed Amine Khalf
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Test Integration Manager
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Bombardier Transportation
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests evolve around econometrics studies and multi-objective optimization technics applied to stock & option trading.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multi-objective Optimization
+- Macroeconomy & Geopolitics
+- Automated Trading
+- Programming, mainly Python
+- Data Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Business Administration (MBA)
+    institution: HEC Montreal
+    year: 2021
+  - course: M.Sc. in Electrical Engineering
+    institution: UQAC
+    year: 2013
+  - course: B.Eng. in Electromechanical Engineering
+    institution: UQAT
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,18 +49,15 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/amine_khalf
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/mohamed-amine-khalf-ing-msc/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/CV_KHALF_AMINE_english_version.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I would describe myself as a curious and passionate introvert with a good balance between intellectual and emotional intelligence. I do not consider myself to be the smartest guy in the room, however, my focus and simplification abilities are clearly my competitive edge. I am also a hard-worker and result-oriented, looking at the word for what it is and not as I would like it to be. I know and love people, their diversity and complexity, and always do my best to lead and learn from them.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also have a strong technical background with an expertise in Electrical Machine Design and System engineering as well as a deep interest and good understanding of Geopolitics, Economy and both corporate and market Finance. Today, my goal is to shift my career toward a project management or consulting role where I can better articulate and improve my hard and soft skills. I believe that a position in your company will help me improve my analytic and synthetic thinking, leadership and problem-solving abilities while supporting your business sustainable growth and improving your value proposition toward your customers and partners.
