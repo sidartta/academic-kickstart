@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Master of Business Administration (MBA)
+  - course: MBA - Finance & Digital Marketing
     institution: HEC Montreal
     year: 2021
   - course: M.Sc. in Electrical Engineering
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I would describe myself as a curious and passionate introvert with a good balance between intellectual and emotional intelligence. I do not consider myself to be the smartest guy in the room, however, my focus and simplification abilities are clearly my competitive edge. I am also a hard-worker and result-oriented, looking at the word for what it is and not as I would like it to be. I know and love people, their diversity and complexity, and always do my best to lead and learn from them.
+I would describe myself as a curious and passionate introvert with a good balance between intellectual and emotional intelligence. I do not consider myself to be the smartest guy in the room, however, my focus, analytical and problem-solving abilities are clearly my competitive edge. I am also a hard-worker and result-oriented, looking at the word for what it is. I know and love people, their diversity and complexity, and always do my best to lead and learn from them.
 
-I also have a strong technical background with an expertise in Electrical Machine Design and System engineering as well as a deep interest and good understanding of Geopolitics, Economy and both corporate and market Finance. Today, my goal is to shift my career toward a project management or consulting role where I can better articulate and improve my hard and soft skills. I believe that a position in your company will help me improve my analytic and synthetic thinking, leadership and problem-solving abilities while supporting your business sustainable growth and improving your value proposition toward your customers and partners.
+I also have a strong technical background with an good understanding of Electromagnetic Theory and a pratical expertise System Engineering as well as a deep interest in Geopolitics, Economy and both Corporate and Market Finance. My goal is to shift my career toward a position where I can better articulate and improve my hard and soft skills. I aim to improve my analytic and synthetic thinking, leadership and problem-solving abilities while supporting businesses build a sustainable growth while improving their value proposition toward their customers and partners.
